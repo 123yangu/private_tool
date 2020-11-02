@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T07:46:09.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="p0vAlgBOqU4kEbbQ3TRH" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T07:53:52.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cmLqE79LOmvjvno7Ffog" version="13.8.8" type="github">
   <diagram id="ShfnqmNN4cUQ0fv_p8tL" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9xlFXg57MbIlktrybgkb-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="770" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;教师系统&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="770" height="60" as="geometry" />
         </mxCell>
@@ -14,13 +17,13 @@
           <mxGeometry x="-120" y="180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-5" value="&lt;b&gt;教师 AModule&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-6" value="&lt;b&gt;教师 BModule&lt;/b&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-8" value="&lt;b&gt;教师 XModule&lt;/b&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="260" width="900" height="8" as="geometry" />
@@ -29,7 +32,7 @@
           <mxGeometry x="-50" y="130" width="870" height="8" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;业务组件（Common）&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="410" width="160" height="20" as="geometry" />
+          <mxGeometry x="-130" y="410" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="770" height="260" as="geometry" />
@@ -45,6 +48,15 @@
         </mxCell>
         <mxCell id="9xlFXg57MbIlktrybgkb-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BaseCommon&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9xlFXg57MbIlktrybgkb-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;基础组件（Common）&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9xlFXg57MbIlktrybgkb-18" value="&lt;b&gt;AppServiceCommon&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xlFXg57MbIlktrybgkb-23" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BaseModule&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
