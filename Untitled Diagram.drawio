@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T08:05:13.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TMRJQ2DxZJe2oF4W_NuR" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T08:06:02.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ztm0Rj4pyW5c_izjYgoz" version="13.8.8" type="github">
   <diagram id="5YJdf_GiZVkq7qKEYGZW" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="330" width="970" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j0w_x6X-0oKLD-OR9ZKu-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="90" y="800" width="990" height="540" as="geometry" />
+          <mxGeometry x="90" y="800" width="980" height="540" as="geometry" />
         </mxCell>
         <mxCell id="j0w_x6X-0oKLD-OR9ZKu-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="140" y="990" width="820" height="260" as="geometry" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="j0w_x6X-0oKLD-OR9ZKu-64" value="Glide图片加载" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="620" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0w_x6X-0oKLD-OR9ZKu-66" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1370" width="1200" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
